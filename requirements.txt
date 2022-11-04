@@ -1,0 +1,6 @@
+numpy
+pandas
+joblib
+jmetalpy
+scipy
+ansible
